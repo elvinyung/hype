@@ -8,7 +8,7 @@ Download [from NPM](https://www.npmjs.com/package/hype-server).
 
 ### Quickstart
 ```javascript
-var hype = require('../../lib');
+var hype = require('hype');
 
 var server = hype.createServer(function(req, res) {
   res.end('something');
