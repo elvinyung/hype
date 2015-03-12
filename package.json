@@ -1,0 +1,31 @@
+{
+  "name": "hype",
+  "version": "0.0.0",
+  "description": "HTTP implementation from TCP",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "http-status": "^0.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elvinyung/hype.git"
+  },
+  "keywords": [
+    "http",
+    "tcp",
+    "server"
+  ],
+  "author": "Elvin Yung <elvin@elvinyung.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elvinyung/hype/issues"
+  },
+  "homepage": "https://github.com/elvinyung/hype"
+}
