@@ -1,5 +1,5 @@
 {
-  "name": "hype",
+  "name": "hype-server",
   "version": "0.0.0",
   "description": "HTTP implementation from TCP",
   "main": "lib/index.js",
